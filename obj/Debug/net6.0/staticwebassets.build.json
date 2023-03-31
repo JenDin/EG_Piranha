@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "7t4LfVDiVeafJf6WFMStbCzePKdjgB8kjihznyF50+0=",
+  "Source": "EG_Piranha",
+  "BasePath": "_content/EG_Piranha",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EG_Piranha/wwwroot",
+      "Source": "EG_Piranha",
+      "ContentRoot": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/",
+      "BasePath": "_content/EG_Piranha",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/empty.txt",
+      "SourceId": "EG_Piranha",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/",
+      "BasePath": "_content/EG_Piranha",
+      "RelativePath": "empty.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/empty.txt"
+    }
+  ]
+}
