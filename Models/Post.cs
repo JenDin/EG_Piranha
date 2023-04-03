@@ -20,14 +20,17 @@ namespace EG_Piranha.Models
             [Field(Title = "Bottom content (optional)")]
             public TextField BottomContent { get; set; }
 
-            [Field(Title = "First image")]
+            [Field(Title = "First image", Options = FieldOption.HalfWidth)]
             public ImageField FirstImage { get; set; }
 
-            [Field(Title = "Second image")]
+            [Field(Title = "Second image", Options = FieldOption.HalfWidth)]
             public ImageField SecondImage { get; set; }
 
-            [Field(Title = "Third image")]
+            [Field(Title = "Third image", Options = FieldOption.HalfWidth)]
             public ImageField ThirdImage { get; set; }
+
+            [Field(Title = "Fourth image", Options = FieldOption.HalfWidth)]
+            public ImageField FourthImage { get; set; }
         }
 
         [Region]
