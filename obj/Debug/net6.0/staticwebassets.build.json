@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7t4LfVDiVeafJf6WFMStbCzePKdjgB8kjihznyF50+0=",
+  "Hash": "AkXnFHetjTaKn2cxkHJlbqNURXqnYLxD6knIv5jHiLw=",
   "Source": "EG_Piranha",
   "BasePath": "_content/EG_Piranha",
   "Mode": "Default",
@@ -32,6 +32,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/empty.txt"
+    },
+    {
+      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1)_210x160.jpg",
+      "SourceId": "EG_Piranha",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/",
+      "BasePath": "_content/EG_Piranha",
+      "RelativePath": "uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1)_210x160.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1)_210x160.jpg"
+    },
+    {
+      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1).jpg",
+      "SourceId": "EG_Piranha",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/",
+      "BasePath": "_content/EG_Piranha",
+      "RelativePath": "uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1).jpg"
     }
   ]
 }

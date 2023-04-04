@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets/empty.txt"
     },
     {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1).jpg",
+      "PackagePath": "staticwebassets/uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1).jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1)_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/34381f2e-33bc-48d6-b10b-6e6b7e888188/alexander-kovacs-Avk4GmRbjWU-unsplash_(1)_210x160.jpg"
+    },
+    {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.EG_Piranha.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
