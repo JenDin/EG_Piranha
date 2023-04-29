@@ -1,7 +1,10 @@
 ﻿using System;
+using System.IO;
+using EG_Piranha.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Piranha;
+using Piranha.AspNetCore.Identity;
 using Piranha.Models;
 
 namespace EG_Piranha.Controllers
@@ -15,6 +18,14 @@ namespace EG_Piranha.Controllers
         public PageApiController(IApi api)
         {
             _api = api;
+        }
+
+        // Gets the page model for a page with a specific id
+        [HttpGet]
+        [Route("{id:Guid}")]
+        public virtual async Task<IActionResult> GetById(Guid id)
+        {
+            return Json(await _api.Pages.GetByIdAsync<PageBase>(id));
         }
 
         // Gets the page model for the page with the specified slug in the default site

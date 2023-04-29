@@ -51,5 +51,14 @@ namespace EG_Piranha.Controllers
         {
             return Json(await _api.Posts.GetBySlugAsync<PostInfo>(archiveId, slug));
         }
+
+        [HttpGet]
+        [Route("{products}")]
+        public async Task<IActionResult> GetProducts()
+        {
+            var childPages = await _api.Pages.GetAllAsync<ProductPage>();
+
+            return Json(childPages);
+        }
     }
 }

@@ -22,11 +22,32 @@ namespace EG_Piranha.Models
             [Field(Title = "Primary description")]
             public TextField Description1 { get; set; }
 
-            [Field(Title = "Secondary description")]
-            public TextField Description2 { get; set; }
-
-            [Field]
+            [Field(Title = "Ingredients")]
             public TextField Ingredients { get; set; }
+
+            [Field(Title = "Energy (kcal)")]
+            public StringField Energy { get; set; }
+
+            [Field(Title = "Fat (g)")]
+            public StringField Fat { get; set; }
+
+            [Field(Title = "Saturated fat (g)")]
+            public StringField SaturatedFat { get; set; }
+
+            [Field(Title = "Carbohydrates (g)")]
+            public StringField Carbohydrates { get; set; }
+
+            [Field(Title = "Protein (g)")]
+            public StringField Protein { get; set; }
+
+            [Field(Title = "Fibers (g)")]
+            public StringField Fibers { get; set; }
+
+            [Field(Title = "Sugar (g)")]
+            public StringField Sugar { get; set; }
+
+            [Field(Title = "Salt (g)")]
+            public StringField Salt { get; set; }
         }
 
         [Region(Title = "Product Region")]
