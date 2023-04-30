@@ -20,13 +20,6 @@ namespace EG_Piranha.Controllers
             _api = api;
         }
 
-        // Return sitemap
-        private async Task<Piranha.Models.Sitemap> GetSiteMap(Guid? id = null)
-        {
-            var siteMap = await _api.Sites.GetSitemapAsync(id);
-            return siteMap;
-        }
-
         [HttpGet]
         [Route("all")]
         public async Task<IActionResult> GetProducts()
