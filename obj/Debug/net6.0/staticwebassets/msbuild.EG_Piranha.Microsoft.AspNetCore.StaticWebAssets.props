@@ -80,6 +80,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\220fe585-c503-48d8-b2eb-9d37b6efe453\UnKarisimi_EgeGlutensiz_210x160.webp))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\25ed0e37-8ccc-4678-9d2d-47224ce4c398\Kek.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EG_Piranha</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EG_Piranha</BasePath>
+      <RelativePath>uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\25ed0e37-8ccc-4678-9d2d-47224ce4c398\Kek.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\25ed0e37-8ccc-4678-9d2d-47224ce4c398\Kek_210x160.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EG_Piranha</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EG_Piranha</BasePath>
+      <RelativePath>uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek_210x160.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\25ed0e37-8ccc-4678-9d2d-47224ce4c398\Kek_210x160.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\485ee5e2-754e-48be-acc4-38d6c485409b\PirincUnu_EgeGlutensiz.webp))">
       <SourceType>Package</SourceType>
       <SourceId>EG_Piranha</SourceId>
@@ -111,6 +143,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\485ee5e2-754e-48be-acc4-38d6c485409b\PirincUnu_EgeGlutensiz_210x160.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5d099663-f6f0-40d7-a5a5-18e7863a15c4\Tatli.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EG_Piranha</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EG_Piranha</BasePath>
+      <RelativePath>uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5d099663-f6f0-40d7-a5a5-18e7863a15c4\Tatli.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5d099663-f6f0-40d7-a5a5-18e7863a15c4\Tatli_210x160.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EG_Piranha</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EG_Piranha</BasePath>
+      <RelativePath>uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli_210x160.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5d099663-f6f0-40d7-a5a5-18e7863a15c4\Tatli_210x160.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\60ec18e0-a22a-468c-994e-1f0d9bdb11fd\MisirNisastasi_EgeGlutensiz.webp))">
       <SourceType>Package</SourceType>
@@ -240,6 +304,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cc58712e-9162-4be7-8939-07ee9f030d59\Cilekli_Puding_EgeGlutensiz_210x160.webp))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d569c83a-3831-4505-8a39-e455d55796d2\Atistirmalik.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EG_Piranha</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EG_Piranha</BasePath>
+      <RelativePath>uploads/d569c83a-3831-4505-8a39-e455d55796d2/Atistirmalik.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d569c83a-3831-4505-8a39-e455d55796d2\Atistirmalik.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d569c83a-3831-4505-8a39-e455d55796d2\Atistirmalik_210x160.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EG_Piranha</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EG_Piranha</BasePath>
+      <RelativePath>uploads/d569c83a-3831-4505-8a39-e455d55796d2/Atistirmalik_210x160.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d569c83a-3831-4505-8a39-e455d55796d2\Atistirmalik_210x160.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d65646f3-891e-4bd8-a9c0-52cece53e35b\Keciboynuzu_EgeGlutensiz_(1).webp))">
       <SourceType>Package</SourceType>
       <SourceId>EG_Piranha</SourceId>
@@ -367,6 +463,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f396f381-7aef-401c-b215-c7c4fec9020f\MisirIrmigi_EgeGlutensiz_210x160.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f969c448-a9f3-43ba-baef-5d445a5b362b\Ekmek.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EG_Piranha</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EG_Piranha</BasePath>
+      <RelativePath>uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f969c448-a9f3-43ba-baef-5d445a5b362b\Ekmek.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f969c448-a9f3-43ba-baef-5d445a5b362b\Ekmek_210x160.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EG_Piranha</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EG_Piranha</BasePath>
+      <RelativePath>uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f969c448-a9f3-43ba-baef-5d445a5b362b\Ekmek_210x160.webp))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

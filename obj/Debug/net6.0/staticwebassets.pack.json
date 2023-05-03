@@ -21,12 +21,28 @@
       "PackagePath": "staticwebassets/uploads/220fe585-c503-48d8-b2eb-9d37b6efe453/UnKarisimi_EgeGlutensiz_210x160.webp"
     },
     {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek.webp",
+      "PackagePath": "staticwebassets/uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek_210x160.webp"
+    },
+    {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/485ee5e2-754e-48be-acc4-38d6c485409b/PirincUnu_EgeGlutensiz.webp",
       "PackagePath": "staticwebassets/uploads/485ee5e2-754e-48be-acc4-38d6c485409b/PirincUnu_EgeGlutensiz.webp"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/485ee5e2-754e-48be-acc4-38d6c485409b/PirincUnu_EgeGlutensiz_210x160.webp",
       "PackagePath": "staticwebassets/uploads/485ee5e2-754e-48be-acc4-38d6c485409b/PirincUnu_EgeGlutensiz_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli.webp",
+      "PackagePath": "staticwebassets/uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli_210x160.webp"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/60ec18e0-a22a-468c-994e-1f0d9bdb11fd/MisirNisastasi_EgeGlutensiz.webp",
@@ -61,6 +77,14 @@
       "PackagePath": "staticwebassets/uploads/cc58712e-9162-4be7-8939-07ee9f030d59/Cilekli_Puding_EgeGlutensiz_210x160.webp"
     },
     {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/d569c83a-3831-4505-8a39-e455d55796d2/Atistirmalik.webp",
+      "PackagePath": "staticwebassets/uploads/d569c83a-3831-4505-8a39-e455d55796d2/Atistirmalik.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/d569c83a-3831-4505-8a39-e455d55796d2/Atistirmalik_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/d569c83a-3831-4505-8a39-e455d55796d2/Atistirmalik_210x160.webp"
+    },
+    {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/d65646f3-891e-4bd8-a9c0-52cece53e35b/Keciboynuzu_EgeGlutensiz_(1).webp",
       "PackagePath": "staticwebassets/uploads/d65646f3-891e-4bd8-a9c0-52cece53e35b/Keciboynuzu_EgeGlutensiz_(1).webp"
     },
@@ -91,6 +115,14 @@
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f396f381-7aef-401c-b215-c7c4fec9020f/MisirIrmigi_EgeGlutensiz_210x160.webp",
       "PackagePath": "staticwebassets/uploads/f396f381-7aef-401c-b215-c7c4fec9020f/MisirIrmigi_EgeGlutensiz_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek.webp",
+      "PackagePath": "staticwebassets/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.EG_Piranha.Microsoft.AspNetCore.StaticWebAssets.props",

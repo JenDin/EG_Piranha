@@ -10,12 +10,12 @@ using EG_Piranha.Models;
 namespace EG_Piranha.Controllers
 {
     [ApiController]
-    [Route("api/recipes")]
-    public class RecipeApiController : Controller
+    [Route("api/recipes_category")]
+    public class RecipesInCategoryApiController : Controller
     {
         private readonly IApi _api;
 
-        public RecipeApiController(IApi api)
+        public RecipesInCategoryApiController(IApi api)
         {
             _api = api;
         }
@@ -33,29 +33,35 @@ namespace EG_Piranha.Controllers
         [Route("{slug}")]
         public async Task<IActionResult> GetRecipesFromCategory(string slug)
         {
+            // 1. Get the sitemap
             var siteMap = await GetSiteMap();
 
+            // 2. Get all children from the sitemap item however many levels deep
             var allSiteMapItems = new List<SitemapItem>();
             foreach (var item in siteMap)
             {
                 var childItems = FetchAllChildSitemapItemsRecursively(item);
+                // 3. Add each child on the same level
                 allSiteMapItems.AddRange(childItems);
             }
 
+            // 4. Get the slug for the first match
             var match = allSiteMapItems
                 .FirstOrDefault(x => x.Permalink.Contains(slug));
 
+            // 5. 
             var children = match?.Items;
+            var pages = new List<RecipePage>();
+            foreach(var child in children)
+            {
+                var page = await _api.Pages.GetByIdAsync<RecipePage>(child.Id);
+                if(page != null)
+                {
+                    pages.Add(page);
+                }
+            }                
 
-            return Json(children);
-        }
-
-        [Route("{slug}")]
-        public async Task<IActionResult> GetCategories(string slug)
-        {
-            var recipeCategories = await _api.Pages.GetAllAsync<RecipeCategory>();
-
-            return Json(recipeCategories);
+            return Json(pages);
         }
 
         public List<SitemapItem> FetchAllChildSitemapItemsRecursively(SitemapItem sitemapItem)
@@ -78,18 +84,5 @@ namespace EG_Piranha.Controllers
 
             return allSitemapItems;
         }
-
-
-
-        // Get all recipe detail pages
-        [HttpGet]
-        [Route("recipe_details")]
-        public async Task<IActionResult> GetRecipeDetails()
-        {
-            var recipeDetailsPages = await _api.Pages.GetAllAsync<RecipePage>();
-
-            return Json(recipeDetailsPages);
-        }
     }
-
 }
