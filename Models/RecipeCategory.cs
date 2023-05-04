@@ -4,7 +4,7 @@ using Piranha.AttributeBuilder;
 using Piranha.Extend;
 using Piranha.Extend.Fields;
 using Piranha.Models;
-using static EG_Piranha.Models.RecipePage;
+using EG_Piranha.Models;
 
 namespace EG_Piranha.Models
 {

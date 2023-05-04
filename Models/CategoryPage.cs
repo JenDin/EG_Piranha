@@ -4,7 +4,7 @@ using Piranha.Models;
 
 namespace EG_Piranha.Models
 {
-    [PageType(Title = "Category Page")]
+    [PageType(Title = "Recipe Page")]
     public class CategoryPage : Page<SimplePage>
     {
 

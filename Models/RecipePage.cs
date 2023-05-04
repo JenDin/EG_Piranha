@@ -6,7 +6,7 @@ using Piranha.Models;
 
 namespace EG_Piranha.Models
 {
-    [PageType(Title = "Recipe Page")]
+    [PageType(Title = "Recipe Details Page")]
     public class RecipePage : Page<SimplePage>
     {
         public class RecipeReg
@@ -20,6 +20,9 @@ namespace EG_Piranha.Models
             [Field(Title = "Recipe image")]
             public ImageField RecipeImage { get; set; }
 
+            [Field(Title = "Recipe image small")]
+            public ImageField RecipeImageSmall { get; set; }
+
             [Field(Title = "Total duration", Options = FieldOption.HalfWidth)]
             public StringField TotalDuration { get; set; }
 
@@ -28,6 +31,13 @@ namespace EG_Piranha.Models
 
             [Field(Title = "Difficulty level")]
             public StringField DifficultyLevel { get; set; }
+
+
+            [Field(Title = "Ingredient Html")]
+            public HtmlField IngredientsHtml { get; set; }
+
+            [Field(Title = "Method Html")]
+            public HtmlField MethodHtml { get; set; }
         }
 
         [Region(Title = "Recipe Region")]

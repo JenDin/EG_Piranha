@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/uploads/08fe112b-852b-43d1-b946-5501b1441669/Muzlu_Puding_EgeGlutensiz_210x160.webp"
     },
     {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/138a1cdb-a890-4f23-8fab-c14a9e7b71f9/sutlac.webp",
+      "PackagePath": "staticwebassets/uploads/138a1cdb-a890-4f23-8fab-c14a9e7b71f9/sutlac.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/138a1cdb-a890-4f23-8fab-c14a9e7b71f9/sutlac_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/138a1cdb-a890-4f23-8fab-c14a9e7b71f9/sutlac_210x160.webp"
+    },
+    {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/220fe585-c503-48d8-b2eb-9d37b6efe453/UnKarisimi_EgeGlutensiz.webp",
       "PackagePath": "staticwebassets/uploads/220fe585-c503-48d8-b2eb-9d37b6efe453/UnKarisimi_EgeGlutensiz.webp"
     },
@@ -93,6 +101,14 @@
       "PackagePath": "staticwebassets/uploads/d65646f3-891e-4bd8-a9c0-52cece53e35b/Keciboynuzu_EgeGlutensiz_(1)_210x160.webp"
     },
     {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/e62492bb-623a-4c86-9b46-e7f1acc5584c/Irmik_Helvasi.webp",
+      "PackagePath": "staticwebassets/uploads/e62492bb-623a-4c86-9b46-e7f1acc5584c/Irmik_Helvasi.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/e62492bb-623a-4c86-9b46-e7f1acc5584c/Irmik_Helvasi_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/e62492bb-623a-4c86-9b46-e7f1acc5584c/Irmik_Helvasi_210x160.webp"
+    },
+    {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f1a1fa7b-ed42-4f17-89bd-12dc58f3a02a/Kakaolu_Puding_EgeGlutensiz.webp",
       "PackagePath": "staticwebassets/uploads/f1a1fa7b-ed42-4f17-89bd-12dc58f3a02a/Kakaolu_Puding_EgeGlutensiz.webp"
     },
@@ -123,6 +139,14 @@
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp",
       "PackagePath": "staticwebassets/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi.webp",
+      "PackagePath": "staticwebassets/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi_210x160.webp"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.EG_Piranha.Microsoft.AspNetCore.StaticWebAssets.props",

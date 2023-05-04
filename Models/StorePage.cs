@@ -8,7 +8,7 @@ using static EG_Piranha.Models.RecipeCategory;
 namespace EG_Piranha.Models
 {
     [PageType(Title = "Store/Markets Page")]
-    public class Stores : Page<SimplePage>
+    public class StorePage : Page<SimplePage>
     {
 
     }

@@ -19,7 +19,7 @@ namespace EG_Piranha.Models
             [Field(Title = "Product image")]
             public ImageField ProductImage { get; set; }
 
-            [Field(Title = "Primary description")]
+            [Field(Title = "Product description")]
             public TextField Description1 { get; set; }
 
             [Field(Title = "Ingredients")]
