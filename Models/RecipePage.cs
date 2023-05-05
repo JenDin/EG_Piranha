@@ -6,7 +6,7 @@ using Piranha.Models;
 
 namespace EG_Piranha.Models
 {
-    [PageType(Title = "Recipe Details Page")]
+    [PageType(Title = "Recipe Details Page", UseBlocks = false)]
     public class RecipePage : Page<SimplePage>
     {
         public class RecipeReg
@@ -31,7 +31,6 @@ namespace EG_Piranha.Models
 
             [Field(Title = "Difficulty level")]
             public StringField DifficultyLevel { get; set; }
-
 
             [Field(Title = "Ingredient Html")]
             public HtmlField IngredientsHtml { get; set; }

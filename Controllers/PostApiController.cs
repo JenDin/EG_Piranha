@@ -35,30 +35,5 @@ namespace EG_Piranha.Controllers
         {
             return Json(await _api.Posts.GetBySlugAsync<PostBase>(archiveId, slug));
         }
-
-        // Gets the post info model for the post with the specified id
-        [HttpGet]
-        [Route("info/{id:Guid}")]
-        public async Task<IActionResult> GetInfoById(Guid id)
-        {
-            return Json(await _api.Posts.GetByIdAsync<PostInfo>(id));
-        }
-
-        // Gets the post info model for the post with the specified archive and slug
-        [HttpGet]
-        [Route("info/{archiveId}/{slug}")]
-        public async Task<IActionResult> GetInfoBySlugAndSite(Guid archiveId, string slug)
-        {
-            return Json(await _api.Posts.GetBySlugAsync<PostInfo>(archiveId, slug));
-        }
-
-        [HttpGet]
-        [Route("{products}")]
-        public async Task<IActionResult> GetProducts()
-        {
-            var childPages = await _api.Pages.GetAllAsync<ProductPage>();
-
-            return Json(childPages);
-        }
     }
 }

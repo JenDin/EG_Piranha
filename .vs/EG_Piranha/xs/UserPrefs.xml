@@ -1,18 +1,26 @@
 ﻿<Properties StartupConfiguration="{C02AC1F0-BD3D-47E3-BBC7-91E327666326}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.EG__Piranha PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/ProductPage.cs">
+  <MonoDevelop.Ide.ItemProperties.EG__Piranha PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/StoresApiController.cs">
     <Files>
       <File FileName="appsettings.json" />
-      <File FileName="Program.cs" />
-      <File FileName="Models/StandardPage.cs" />
-      <File FileName="Models/ProductPage.cs" Line="59" Column="2" />
+      <File FileName="Program.cs" Line="73" Column="1" />
+      <File FileName="Models/StandardPage.cs" Line="9" Column="40" />
+      <File FileName="Models/ProductPage.cs" Line="11" Column="39" />
       <File FileName="Models/Archive.cs" />
-      <File FileName="Models/Post.cs" />
-      <File FileName="Controllers/PageApiController.cs" />
-      <File FileName="Controllers/PostApiController.cs" />
-      <File FileName="Models/RecipePage.cs" />
+      <File FileName="Models/Post.cs" Line="20" Column="1" />
+      <File FileName="Controllers/PageApiController.cs" Line="16" Column="18" />
+      <File FileName="Controllers/PostApiController.cs" Line="1" Column="1" />
+      <File FileName="Models/RecipePage.cs" Line="9" Column="63" />
+      <File FileName="Models/RecipeCategory.cs" Line="26" Column="2" />
+      <File FileName="Models/CategoryPage.cs" Line="14" Column="1" />
+      <File FileName="Controllers/ProductPageController.cs" Line="27" Column="10" />
+      <File FileName="Controllers/RecipeApiController.cs" Line="58" Column="24" />
+      <File FileName="Models/Stores.cs" Line="16" Column="1" />
+      <File FileName="Controllers/CategoryApiController.cs" Line="31" Column="23" />
+      <File FileName="Controllers/RecipeDetailsApiController.cs" Line="24" Column="80" />
+      <File FileName="Controllers/StoresApiController.cs" Line="29" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +28,9 @@
           <Node name="EG_Piranha" expanded="True">
             <Node name="EG_Piranha" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="StoresApiController.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
             </Node>
           </Node>
@@ -28,8 +38,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
