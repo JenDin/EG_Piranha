@@ -25,9 +25,9 @@ namespace EG_Piranha.Controllers
         public async Task<IActionResult> GetProducts()
         {
             // Get all products pages
-            var childPages = await _api.Pages.GetAllAsync<ProductPage>();
+            var productPages = await _api.Pages.GetAllAsync<ProductPage>();
 
-            return Json(childPages);
+            return Json(productPages);
         }
     }
 

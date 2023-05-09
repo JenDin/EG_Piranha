@@ -28,43 +28,9 @@ namespace EG_Piranha.Controllers
             return siteMap;
         }
 
-        // Get recipes belonging to a specific category
-        [HttpGet]
-        [Route("{slug}")]
-        public async Task<IActionResult> GetRecipesFromCategory(string slug)
-        {
-            // 1. Get the sitemap
-            var siteMap = await GetSiteMap();
 
-            // 2. Get all children from the sitemap item however many levels deep
-            var allSiteMapItems = new List<SitemapItem>();
-            foreach (var item in siteMap)
-            {
-                var childItems = FetchAllChildSitemapItemsRecursively(item);
-                // 3. Add each child on the same level
-                allSiteMapItems.AddRange(childItems);
-            }
-
-            // 4. Get the slug for the first match
-            var match = allSiteMapItems
-                .FirstOrDefault(x => x.Permalink.Contains(slug));
-
-            // 5. 
-            var children = match?.Items;
-            var pages = new List<RecipePage>();
-            foreach(var child in children)
-            {
-                var page = await _api.Pages.GetByIdAsync<RecipePage>(child.Id);
-                if(page != null)
-                {
-                    pages.Add(page);
-                }
-            }                
-
-            return Json(pages);
-        }
-
-        public List<SitemapItem> FetchAllChildSitemapItemsRecursively(SitemapItem sitemapItem)
+        // Method that calls itself repeatedly to 
+        public List<SitemapItem> GetAllChildSitemapItemsRecursively(SitemapItem sitemapItem)
         {
             var allSitemapItems = new List<SitemapItem>();
 
@@ -77,12 +43,50 @@ namespace EG_Piranha.Controllers
                 // If the child item has children, call this function recursively
                 if (childItem.Items != null && childItem.Items.Count > 0)
                 {
-                    var childSitemapItems = FetchAllChildSitemapItemsRecursively(childItem);
+                    var childSitemapItems = GetAllChildSitemapItemsRecursively(childItem);
                     allSitemapItems.AddRange(childSitemapItems);
                 }
             }
-
             return allSitemapItems;
+        }
+
+        // Get recipes belonging to a specific category
+        [HttpGet]
+        [Route("{slug}")]
+        public async Task<IActionResult> GetRecipesFromCategory(string slug)
+        {
+            // 1. Get the sitemap
+            var siteMap = await GetSiteMap();
+
+            // 2. Get all children from the sitemap item however many levels deep
+            var allSiteMapItems = new List<SitemapItem>();
+
+            foreach (var item in siteMap)
+            {
+                var childItems = GetAllChildSitemapItemsRecursively(item);
+                // 3. Add each child on the same level
+                allSiteMapItems.AddRange(childItems);
+            }
+
+            // 4. Get the slug for the first match
+            var match = allSiteMapItems
+                .FirstOrDefault(x => x.Permalink.Contains(slug));
+
+            // 5. 
+            var children = match?.Items;
+
+            var pages = new List<RecipePage>();
+
+            foreach(var child in children)
+            {
+                var page = await _api.Pages.GetByIdAsync<RecipePage>(child.Id);
+                if(page != null)
+                {
+                    pages.Add(page);
+                }
+            }                
+
+            return Json(pages);
         }
     }
 }

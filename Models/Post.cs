@@ -7,7 +7,7 @@ using Piranha.Models;
 
 namespace EG_Piranha.Models
 {
-    [PostType(Title = "Post", UseBlocks = false)]
+    [PostType(Title = "Post")]
     public class Post : PostBase
 	{
         public class PostReg

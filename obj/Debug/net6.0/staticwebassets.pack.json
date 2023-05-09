@@ -141,12 +141,12 @@
       "PackagePath": "staticwebassets/uploads/8c20431e-40df-4c2e-8c86-16795790fbca/Kipa_logo_210x160.png"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo.png",
-      "PackagePath": "staticwebassets/uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2.webp",
+      "PackagePath": "staticwebassets/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2_210x160.webp"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/adeff442-284d-4bb0-9e47-120cbec81efb/Migros_logo.png",
@@ -243,14 +243,6 @@
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp",
       "PackagePath": "staticwebassets/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp"
-    },
-    {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi.webp",
-      "PackagePath": "staticwebassets/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi.webp"
-    },
-    {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi_210x160.webp",
-      "PackagePath": "staticwebassets/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi_210x160.webp"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.EG_Piranha.Microsoft.AspNetCore.StaticWebAssets.props",

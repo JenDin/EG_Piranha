@@ -25,7 +25,9 @@ namespace EG_Piranha.Controllers
         [Route("all/{archiveId}")]
         public async Task<IActionResult> GetAllPosts(Guid archiveId)
         {
-            return Json(await _api.Posts.GetAllAsync<Post>(archiveId));
+           var allPosts = await _api.Posts.GetAllAsync<Post>(archiveId);
+
+            return Json(allPosts);
         }
 
         // Gets the post model for the post with the specified archive and slug
@@ -33,7 +35,9 @@ namespace EG_Piranha.Controllers
         [Route("{archiveId}/{slug}")]
         public async Task<IActionResult> GetBySlugAndArchive(Guid archiveId, string slug)
         {
-            return Json(await _api.Posts.GetBySlugAsync<PostBase>(archiveId, slug));
+            var postBySlug = await _api.Posts.GetBySlugAsync<PostBase>(archiveId, slug);
+
+            return Json(postBySlug);
         }
     }
 }

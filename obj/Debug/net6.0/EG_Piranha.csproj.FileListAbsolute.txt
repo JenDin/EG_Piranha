@@ -1,3 +1,10 @@
+/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.csproj.AssemblyReference.cache
+/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.AssemblyInfoInputs.cache
+/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.AssemblyInfo.cs
+/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.csproj.CoreCompileInputs.cache
+/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.MvcApplicationPartsAssemblyInfo.cs
+/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.MvcApplicationPartsAssemblyInfo.cache
 /Users/jennydinh/Projects/EG_Piranha/bin/Debug/net6.0/appsettings.json
 /Users/jennydinh/Projects/EG_Piranha/bin/Debug/net6.0/editorconfig.json
 /Users/jennydinh/Projects/EG_Piranha/bin/Debug/net6.0/EG_Piranha.staticwebassets.runtime.json
@@ -389,13 +396,6 @@
 /Users/jennydinh/Projects/EG_Piranha/bin/Debug/net6.0/uk/Piranha.Manager.Localization.resources.dll
 /Users/jennydinh/Projects/EG_Piranha/bin/Debug/net6.0/vi/Piranha.Manager.Localization.resources.dll
 /Users/jennydinh/Projects/EG_Piranha/bin/Debug/net6.0/zh/Piranha.Manager.Localization.resources.dll
-/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.csproj.AssemblyReference.cache
-/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.GeneratedMSBuildEditorConfig.editorconfig
-/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.AssemblyInfoInputs.cache
-/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.AssemblyInfo.cs
-/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.csproj.CoreCompileInputs.cache
-/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.MvcApplicationPartsAssemblyInfo.cs
-/Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/EG_Piranha.MvcApplicationPartsAssemblyInfo.cache
 /Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/staticwebassets/msbuild.EG_Piranha.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/staticwebassets/msbuild.build.EG_Piranha.props
 /Users/jennydinh/Projects/EG_Piranha/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.EG_Piranha.props

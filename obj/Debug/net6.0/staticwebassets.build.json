@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wBEmr9EKTEbP5uu67uOThFCFbtS8yxWS73c+AGVdV2E=",
+  "Hash": "48WEvHNMhMi1PoR9aynLYLgtQr4CXnekF1wm9kSS3sE=",
   "Source": "EG_Piranha",
   "BasePath": "_content/EG_Piranha",
   "Mode": "Default",
@@ -612,12 +612,12 @@
       "OriginalItemSpec": "wwwroot/uploads/8c20431e-40df-4c2e-8c86-16795790fbca/Kipa_logo.png"
     },
     {
-      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo_210x160.png",
+      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2_210x160.webp",
       "SourceId": "EG_Piranha",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/",
       "BasePath": "_content/EG_Piranha",
-      "RelativePath": "uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo_210x160.png",
+      "RelativePath": "uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2_210x160.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo_210x160.png"
+      "OriginalItemSpec": "wwwroot/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2_210x160.webp"
     },
     {
-      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo.png",
+      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2.webp",
       "SourceId": "EG_Piranha",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/",
       "BasePath": "_content/EG_Piranha",
-      "RelativePath": "uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo.png",
+      "RelativePath": "uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,7 +643,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/aab87d0d-4000-4e03-ad88-023e55fe61d7/Kipa_logo.png"
+      "OriginalItemSpec": "wwwroot/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2.webp"
     },
     {
       "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/adeff442-284d-4bb0-9e47-120cbec81efb/Migros_logo_210x160.png",
@@ -1052,40 +1052,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek.webp"
-    },
-    {
-      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi_210x160.webp",
-      "SourceId": "EG_Piranha",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/",
-      "BasePath": "_content/EG_Piranha",
-      "RelativePath": "uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi_210x160.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi_210x160.webp"
-    },
-    {
-      "Identity": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi.webp",
-      "SourceId": "EG_Piranha",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/",
-      "BasePath": "_content/EG_Piranha",
-      "RelativePath": "uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/fa28b7a5-cfe2-4f2b-8cad-cff513a00f5d/Misir_Ekmegi.webp"
     }
   ]
 }
