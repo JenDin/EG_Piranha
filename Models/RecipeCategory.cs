@@ -16,8 +16,11 @@ namespace EG_Piranha.Models
             [Field(Title = "Recipe category")]
             public StringField CategoryName { get; set; }
 
-            [Field(Title = "Recipe category image")]
+            [Field(Title = "Recipe category image (webP)")]
             public ImageField CategoryImage { get; set; }
+
+            [Field(Title = "Recipe category image (JPG)")]
+            public ImageField CategoryImageJPG { get; set; }
         }
 
         [Region(Title = "Recipe Category Region")]

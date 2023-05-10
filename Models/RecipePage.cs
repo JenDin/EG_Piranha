@@ -17,8 +17,11 @@ namespace EG_Piranha.Models
             [Field(Title = "Portions")]
             public StringField Portions { get; set; }
 
-            [Field(Title = "Recipe image")]
+            [Field(Title = "Recipe image (webP)")]
             public ImageField RecipeImage { get; set; }
+
+            [Field(Title = "Recipe image (JPG)")]
+            public ImageField RecipeImageJPG { get; set; }
 
             [Field(Title = "Recipe image small")]
             public ImageField RecipeImageSmall { get; set; }

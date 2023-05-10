@@ -68,11 +68,10 @@ namespace EG_Piranha.Controllers
                 allSiteMapItems.AddRange(childItems);
             }
 
-            // 4. Get the slug for the first match
+            // 4. Get the sitemapitem that matches the slug
             var match = allSiteMapItems
                 .FirstOrDefault(x => x.Permalink.Contains(slug));
 
-            // 5. 
             var children = match?.Items;
 
             var pages = new List<RecipePage>();

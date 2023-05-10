@@ -16,8 +16,11 @@ namespace EG_Piranha.Models
             [Field(Title = "Product title")]
             public StringField Title { get; set; }
 
-            [Field(Title = "Product image")]
+            [Field(Title = "Product image (webP)")]
             public ImageField ProductImage { get; set; }
+
+            [Field(Title = "Product image (PNG)")]
+            public ImageField ProductImagePNG { get; set; }
 
             [Field(Title = "Product description")]
             public TextField Description1 { get; set; }
