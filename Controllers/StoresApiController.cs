@@ -19,7 +19,7 @@ namespace EG_Piranha.Controllers
         // Get recipes belonging to a specific category
         [HttpGet]
         [Route("all")]
-        public async Task<IActionResult> GetStores(string slug)
+        public async Task<IActionResult> GetStores()
         {
             // Get all products pages
             var stores = await _api.Pages.GetAllAsync<StorePage>();

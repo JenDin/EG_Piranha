@@ -29,7 +29,7 @@ namespace EG_Piranha.Controllers
         }
 
 
-        // Method that calls itself repeatedly to 
+        // Method that calls itself repeatedly to get all SitemapItems
         public List<SitemapItem> GetAllChildSitemapItemsRecursively(SitemapItem sitemapItem)
         {
             var allSitemapItems = new List<SitemapItem>();
