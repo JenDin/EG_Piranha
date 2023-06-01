@@ -20,7 +20,7 @@ namespace EG_Piranha.Controllers
             _api = api;
         }
 
-        // Gets the post model for all posts in the specified archive
+        // Get the post model for all posts in the specified archive
         [HttpGet]
         [Route("all/{archiveId}")]
         public async Task<IActionResult> GetAllPosts(Guid archiveId)
@@ -30,7 +30,7 @@ namespace EG_Piranha.Controllers
             return Json(allPosts);
         }
 
-        // Gets the post model for the post with the specified archive and slug
+        // Get the post model for the post with the specified archive and slug
         [HttpGet]
         [Route("{archiveId}/{slug}")]
         public async Task<IActionResult> GetBySlugAndArchive(Guid archiveId, string slug)

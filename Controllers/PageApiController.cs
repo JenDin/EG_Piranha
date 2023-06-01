@@ -20,7 +20,7 @@ namespace EG_Piranha.Controllers
             _api = api;
         }
 
-        // Gets the page model for the page with the specified slug in the default site
+        // Get the page model for the page with the specified slug in the default site
         [HttpGet]
         [Route("{slug}")]
         public async Task<IActionResult> GetBySlug(string slug)
