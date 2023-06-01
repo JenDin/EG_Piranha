@@ -16,7 +16,7 @@ namespace EG_Piranha.Controllers
             _api = api;
         }
 
-        // Get recipes belonging to a specific category
+        // Get the page model for the stores
         [HttpGet]
         [Route("all")]
         public async Task<IActionResult> GetStores()

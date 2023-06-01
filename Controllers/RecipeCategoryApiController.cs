@@ -20,6 +20,7 @@ namespace EG_Piranha.Controllers
             _api = api;
         }
 
+        // Get the page model for a recipe category with a specific slug
         [Route("{slug}")]
         public async Task<IActionResult> GetById(string slug)
         {
@@ -27,7 +28,8 @@ namespace EG_Piranha.Controllers
 
             return Json(category);
         }
-        // Get recipe category
+
+        // Get the page model for all recipe categories
         [Route("all")]
         public async Task<IActionResult> GetCategories()
         {

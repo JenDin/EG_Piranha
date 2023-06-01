@@ -34,7 +34,6 @@ namespace EG_Piranha.Controllers
         {
             var allSitemapItems = new List<SitemapItem>();
 
-            // Loop through all child sitemap items
             foreach (var childItem in sitemapItem.Items)
             {
                 // Add the child sitemap item to the list
@@ -50,35 +49,35 @@ namespace EG_Piranha.Controllers
             return allSitemapItems;
         }
 
-        // Get recipes belonging to a specific category
+        // Get all recipes belonging to a specific category
         [HttpGet]
         [Route("{slug}")]
         public async Task<IActionResult> GetRecipesFromCategory(string slug)
         {
-            // 1. Get the sitemap
+            // Get the sitemap
             var siteMap = await GetSiteMap();
 
-            // 2. Get all children from the sitemap item however many levels deep
+            // Get all children from the sitemap item however many levels deep
             var allSiteMapItems = new List<SitemapItem>();
 
             foreach (var item in siteMap)
             {
                 var childItems = GetAllChildSitemapItemsRecursively(item);
-                // 3. Add each child on the same level
+                // Add each child on the same level
                 allSiteMapItems.AddRange(childItems);
             }
 
-            // 4. Get the sitemapitem that matches the slug
+            // Get the sitemapitem that matches the slug
             var match = allSiteMapItems
                 .FirstOrDefault(x => x.Permalink.Contains(slug));
 
             var children = match?.Items;
 
-            var pages = new List<RecipePage>();
+            var pages = new List<RecipeDetailsPage>();
 
             foreach(var child in children)
             {
-                var page = await _api.Pages.GetByIdAsync<RecipePage>(child.Id);
+                var page = await _api.Pages.GetByIdAsync<RecipeDetailsPage>(child.Id);
                 if(page != null)
                 {
                     pages.Add(page);

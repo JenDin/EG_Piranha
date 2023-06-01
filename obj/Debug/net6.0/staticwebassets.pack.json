@@ -5,20 +5,20 @@
       "PackagePath": "staticwebassets/empty.txt"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/0340c722-8b43-4384-b2b8-af1264b7a3d2/Akyurt_logo.png",
-      "PackagePath": "staticwebassets/uploads/0340c722-8b43-4384-b2b8-af1264b7a3d2/Akyurt_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/013b0fd4-fa88-4ffe-9fe4-12c194064eac/Kakaolu_puding.webp",
+      "PackagePath": "staticwebassets/uploads/013b0fd4-fa88-4ffe-9fe4-12c194064eac/Kakaolu_puding.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/0340c722-8b43-4384-b2b8-af1264b7a3d2/Akyurt_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/0340c722-8b43-4384-b2b8-af1264b7a3d2/Akyurt_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/013b0fd4-fa88-4ffe-9fe4-12c194064eac/Kakaolu_puding_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/013b0fd4-fa88-4ffe-9fe4-12c194064eac/Kakaolu_puding_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/049db5bb-9ec3-4867-a215-60d59e3dfce5/Adese_logo.png",
-      "PackagePath": "staticwebassets/uploads/049db5bb-9ec3-4867-a215-60d59e3dfce5/Adese_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/01faee39-4ebb-4587-bf84-87325ba8eb94/Sambali_tatlisi.jpg",
+      "PackagePath": "staticwebassets/uploads/01faee39-4ebb-4587-bf84-87325ba8eb94/Sambali_tatlisi.jpg"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/049db5bb-9ec3-4867-a215-60d59e3dfce5/Adese_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/049db5bb-9ec3-4867-a215-60d59e3dfce5/Adese_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/01faee39-4ebb-4587-bf84-87325ba8eb94/Sambali_tatlisi_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/01faee39-4ebb-4587-bf84-87325ba8eb94/Sambali_tatlisi_210x160.jpg"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/08fe112b-852b-43d1-b946-5501b1441669/Muzlu_Puding_EgeGlutensiz.webp",
@@ -29,28 +29,36 @@
       "PackagePath": "staticwebassets/uploads/08fe112b-852b-43d1-b946-5501b1441669/Muzlu_Puding_EgeGlutensiz_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/13751552-f196-48ed-9d5e-d906026dcb5f/Kesmar_logo.png",
-      "PackagePath": "staticwebassets/uploads/13751552-f196-48ed-9d5e-d906026dcb5f/Kesmar_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/17c880d4-7496-483d-9bdb-255e5c8fd97e/Irmik_helvasi.jpg",
+      "PackagePath": "staticwebassets/uploads/17c880d4-7496-483d-9bdb-255e5c8fd97e/Irmik_helvasi.jpg"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/13751552-f196-48ed-9d5e-d906026dcb5f/Kesmar_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/13751552-f196-48ed-9d5e-d906026dcb5f/Kesmar_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/17c880d4-7496-483d-9bdb-255e5c8fd97e/Irmik_helvasi_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/17c880d4-7496-483d-9bdb-255e5c8fd97e/Irmik_helvasi_210x160.jpg"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/138a1cdb-a890-4f23-8fab-c14a9e7b71f9/sutlac.webp",
-      "PackagePath": "staticwebassets/uploads/138a1cdb-a890-4f23-8fab-c14a9e7b71f9/sutlac.webp"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/188636fe-24f3-4c95-be64-630c1da67447/Kasarli_acma.webp",
+      "PackagePath": "staticwebassets/uploads/188636fe-24f3-4c95-be64-630c1da67447/Kasarli_acma.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/138a1cdb-a890-4f23-8fab-c14a9e7b71f9/sutlac_210x160.webp",
-      "PackagePath": "staticwebassets/uploads/138a1cdb-a890-4f23-8fab-c14a9e7b71f9/sutlac_210x160.webp"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/188636fe-24f3-4c95-be64-630c1da67447/Kasarli_acma_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/188636fe-24f3-4c95-be64-630c1da67447/Kasarli_acma_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/139ce11d-e2d2-45d5-80f5-4a4102148eef/Carrefour_logo.png",
-      "PackagePath": "staticwebassets/uploads/139ce11d-e2d2-45d5-80f5-4a4102148eef/Carrefour_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/1a18f3e3-2f05-4534-b404-f8d48da54c1b/Cagdas_logo.png",
+      "PackagePath": "staticwebassets/uploads/1a18f3e3-2f05-4534-b404-f8d48da54c1b/Cagdas_logo.png"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/139ce11d-e2d2-45d5-80f5-4a4102148eef/Carrefour_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/139ce11d-e2d2-45d5-80f5-4a4102148eef/Carrefour_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/1a18f3e3-2f05-4534-b404-f8d48da54c1b/Cagdas_logo_210x160.png",
+      "PackagePath": "staticwebassets/uploads/1a18f3e3-2f05-4534-b404-f8d48da54c1b/Cagdas_logo_210x160.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/200aacb2-a540-4499-8285-6152f455129f/Grissini.webp",
+      "PackagePath": "staticwebassets/uploads/200aacb2-a540-4499-8285-6152f455129f/Grissini.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/200aacb2-a540-4499-8285-6152f455129f/Grissini_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/200aacb2-a540-4499-8285-6152f455129f/Grissini_210x160.webp"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/220fe585-c503-48d8-b2eb-9d37b6efe453/UnKarisimi_EgeGlutensiz.webp",
@@ -61,12 +69,60 @@
       "PackagePath": "staticwebassets/uploads/220fe585-c503-48d8-b2eb-9d37b6efe453/UnKarisimi_EgeGlutensiz_210x160.webp"
     },
     {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/23612975-7753-464b-96b1-f967489c71a1/Kipa_logo_.png",
+      "PackagePath": "staticwebassets/uploads/23612975-7753-464b-96b1-f967489c71a1/Kipa_logo_.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/23612975-7753-464b-96b1-f967489c71a1/Kipa_logo__210x160.png",
+      "PackagePath": "staticwebassets/uploads/23612975-7753-464b-96b1-f967489c71a1/Kipa_logo__210x160.png"
+    },
+    {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek.webp",
       "PackagePath": "staticwebassets/uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek.webp"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek_210x160.webp",
       "PackagePath": "staticwebassets/uploads/25ed0e37-8ccc-4678-9d2d-47224ce4c398/Kek_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/273fa2bc-9a51-4e1f-8ee5-ebed16bf2775/Kakaolu_puding.jpg",
+      "PackagePath": "staticwebassets/uploads/273fa2bc-9a51-4e1f-8ee5-ebed16bf2775/Kakaolu_puding.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/273fa2bc-9a51-4e1f-8ee5-ebed16bf2775/Kakaolu_puding_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/273fa2bc-9a51-4e1f-8ee5-ebed16bf2775/Kakaolu_puding_210x160.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/34b3f5e9-907f-42f7-b204-79fb95d17b3f/Kesmar_logo.png",
+      "PackagePath": "staticwebassets/uploads/34b3f5e9-907f-42f7-b204-79fb95d17b3f/Kesmar_logo.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/34b3f5e9-907f-42f7-b204-79fb95d17b3f/Kesmar_logo_210x160.png",
+      "PackagePath": "staticwebassets/uploads/34b3f5e9-907f-42f7-b204-79fb95d17b3f/Kesmar_logo_210x160.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/352bdf42-d626-4ae9-9e44-9c09b9f790b3/Akyurt_logo.png",
+      "PackagePath": "staticwebassets/uploads/352bdf42-d626-4ae9-9e44-9c09b9f790b3/Akyurt_logo.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/352bdf42-d626-4ae9-9e44-9c09b9f790b3/Akyurt_logo_210x160.png",
+      "PackagePath": "staticwebassets/uploads/352bdf42-d626-4ae9-9e44-9c09b9f790b3/Akyurt_logo_210x160.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/44ddb2cd-5cce-46a1-b078-03478da5dfb7/Carrefour_logo.png",
+      "PackagePath": "staticwebassets/uploads/44ddb2cd-5cce-46a1-b078-03478da5dfb7/Carrefour_logo.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/44ddb2cd-5cce-46a1-b078-03478da5dfb7/Carrefour_logo_210x160.png",
+      "PackagePath": "staticwebassets/uploads/44ddb2cd-5cce-46a1-b078-03478da5dfb7/Carrefour_logo_210x160.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/460ef9fd-42d7-4d26-b2bf-aa7070d0e6a8/Grissini.jpg",
+      "PackagePath": "staticwebassets/uploads/460ef9fd-42d7-4d26-b2bf-aa7070d0e6a8/Grissini.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/460ef9fd-42d7-4d26-b2bf-aa7070d0e6a8/Grissini_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/460ef9fd-42d7-4d26-b2bf-aa7070d0e6a8/Grissini_210x160.jpg"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/485ee5e2-754e-48be-acc4-38d6c485409b/PirincUnu_EgeGlutensiz.webp",
@@ -77,14 +133,6 @@
       "PackagePath": "staticwebassets/uploads/485ee5e2-754e-48be-acc4-38d6c485409b/PirincUnu_EgeGlutensiz_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/4a62ce3b-40e6-4804-97d2-5c008b103ec1/Macrocenter_logo.png",
-      "PackagePath": "staticwebassets/uploads/4a62ce3b-40e6-4804-97d2-5c008b103ec1/Macrocenter_logo.png"
-    },
-    {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/4a62ce3b-40e6-4804-97d2-5c008b103ec1/Macrocenter_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/4a62ce3b-40e6-4804-97d2-5c008b103ec1/Macrocenter_logo_210x160.png"
-    },
-    {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/578b0f25-2328-42a6-be09-3d1b87447771/Misir_ekmegi.webp",
       "PackagePath": "staticwebassets/uploads/578b0f25-2328-42a6-be09-3d1b87447771/Misir_ekmegi.webp"
     },
@@ -93,12 +141,28 @@
       "PackagePath": "staticwebassets/uploads/578b0f25-2328-42a6-be09-3d1b87447771/Misir_ekmegi_210x160.webp"
     },
     {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/596c3df2-5a71-4f3a-9103-8a219eb38780/Sambali_tatlisi.webp",
+      "PackagePath": "staticwebassets/uploads/596c3df2-5a71-4f3a-9103-8a219eb38780/Sambali_tatlisi.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/596c3df2-5a71-4f3a-9103-8a219eb38780/Sambali_tatlisi_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/596c3df2-5a71-4f3a-9103-8a219eb38780/Sambali_tatlisi_210x160.webp"
+    },
+    {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli.webp",
       "PackagePath": "staticwebassets/uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli.webp"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli_210x160.webp",
       "PackagePath": "staticwebassets/uploads/5d099663-f6f0-40d7-a5a5-18e7863a15c4/Tatli_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/5da1c128-d972-4fe6-bfe8-500e3bc78f4b/Kasarli_acma.jpg",
+      "PackagePath": "staticwebassets/uploads/5da1c128-d972-4fe6-bfe8-500e3bc78f4b/Kasarli_acma.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/5da1c128-d972-4fe6-bfe8-500e3bc78f4b/Kasarli_acma_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/5da1c128-d972-4fe6-bfe8-500e3bc78f4b/Kasarli_acma_210x160.jpg"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/60ec18e0-a22a-468c-994e-1f0d9bdb11fd/MisirNisastasi_EgeGlutensiz.webp",
@@ -117,12 +181,20 @@
       "PackagePath": "staticwebassets/uploads/637d2032-a6bb-46bc-b56c-2406b58d53a5/Kakaolu_kek_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/6739336a-67ca-47a1-931d-a79a56083d1a/Makromarket_logo.png",
-      "PackagePath": "staticwebassets/uploads/6739336a-67ca-47a1-931d-a79a56083d1a/Makromarket_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/63d910ca-45cd-4273-aa8a-8d2c43bf3573/Sutlac.webp",
+      "PackagePath": "staticwebassets/uploads/63d910ca-45cd-4273-aa8a-8d2c43bf3573/Sutlac.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/6739336a-67ca-47a1-931d-a79a56083d1a/Makromarket_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/6739336a-67ca-47a1-931d-a79a56083d1a/Makromarket_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/63d910ca-45cd-4273-aa8a-8d2c43bf3573/Sutlac_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/63d910ca-45cd-4273-aa8a-8d2c43bf3573/Sutlac_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/67f5dc3c-30d3-4c4f-b54d-65fbae853c8e/Limonlu_kek.jpg",
+      "PackagePath": "staticwebassets/uploads/67f5dc3c-30d3-4c4f-b54d-65fbae853c8e/Limonlu_kek.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/67f5dc3c-30d3-4c4f-b54d-65fbae853c8e/Limonlu_kek_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/67f5dc3c-30d3-4c4f-b54d-65fbae853c8e/Limonlu_kek_210x160.jpg"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/6b167898-239f-4f8f-867c-bdd2bfbeb62f/Vanilyali_Puding_EgeGlutensiz.webp",
@@ -133,20 +205,60 @@
       "PackagePath": "staticwebassets/uploads/6b167898-239f-4f8f-867c-bdd2bfbeb62f/Vanilyali_Puding_EgeGlutensiz_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/7ee0b2da-4a42-460f-ba2d-757997fd7758/Ozdilek_logo.png",
-      "PackagePath": "staticwebassets/uploads/7ee0b2da-4a42-460f-ba2d-757997fd7758/Ozdilek_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/702d31d5-9fe4-48d9-8c7e-d0992c9d9148/Limonlu_kek.webp",
+      "PackagePath": "staticwebassets/uploads/702d31d5-9fe4-48d9-8c7e-d0992c9d9148/Limonlu_kek.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/7ee0b2da-4a42-460f-ba2d-757997fd7758/Ozdilek_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/7ee0b2da-4a42-460f-ba2d-757997fd7758/Ozdilek_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/702d31d5-9fe4-48d9-8c7e-d0992c9d9148/Limonlu_kek_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/702d31d5-9fe4-48d9-8c7e-d0992c9d9148/Limonlu_kek_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/8dd3a3b9-a36f-4faa-89fe-64f3e5c9fc1a/Cagdas_logo.png",
-      "PackagePath": "staticwebassets/uploads/8dd3a3b9-a36f-4faa-89fe-64f3e5c9fc1a/Cagdas_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/72a69076-18d9-4fca-8fdb-60e5ff5a8356/Irmik_helvasi.webp",
+      "PackagePath": "staticwebassets/uploads/72a69076-18d9-4fca-8fdb-60e5ff5a8356/Irmik_helvasi.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/8dd3a3b9-a36f-4faa-89fe-64f3e5c9fc1a/Cagdas_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/8dd3a3b9-a36f-4faa-89fe-64f3e5c9fc1a/Cagdas_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/72a69076-18d9-4fca-8fdb-60e5ff5a8356/Irmik_helvasi_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/72a69076-18d9-4fca-8fdb-60e5ff5a8356/Irmik_helvasi_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/8a8c33f7-8ddc-4d05-b8e4-997e31c26976/Altunbilekler_logo.webp",
+      "PackagePath": "staticwebassets/uploads/8a8c33f7-8ddc-4d05-b8e4-997e31c26976/Altunbilekler_logo.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/8a8c33f7-8ddc-4d05-b8e4-997e31c26976/Altunbilekler_logo_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/8a8c33f7-8ddc-4d05-b8e4-997e31c26976/Altunbilekler_logo_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/8ce2f5ca-523e-4acb-8eb0-279167a31c49/Muhallebi.webp",
+      "PackagePath": "staticwebassets/uploads/8ce2f5ca-523e-4acb-8eb0-279167a31c49/Muhallebi.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/8ce2f5ca-523e-4acb-8eb0-279167a31c49/Muhallebi_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/8ce2f5ca-523e-4acb-8eb0-279167a31c49/Muhallebi_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/8d72fe6c-46cb-4303-a45e-ba4d95f11592/Pogaca.webp",
+      "PackagePath": "staticwebassets/uploads/8d72fe6c-46cb-4303-a45e-ba4d95f11592/Pogaca.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/8d72fe6c-46cb-4303-a45e-ba4d95f11592/Pogaca_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/8d72fe6c-46cb-4303-a45e-ba4d95f11592/Pogaca_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/966443ad-d0b6-4aa5-85f3-c6d70a731fae/Macrocenter_logo.png",
+      "PackagePath": "staticwebassets/uploads/966443ad-d0b6-4aa5-85f3-c6d70a731fae/Macrocenter_logo.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/966443ad-d0b6-4aa5-85f3-c6d70a731fae/Macrocenter_logo_210x160.png",
+      "PackagePath": "staticwebassets/uploads/966443ad-d0b6-4aa5-85f3-c6d70a731fae/Macrocenter_logo_210x160.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/99863cb1-c41e-489e-99c6-7c7ff1a9cb88/Migros_logo.png",
+      "PackagePath": "staticwebassets/uploads/99863cb1-c41e-489e-99c6-7c7ff1a9cb88/Migros_logo.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/99863cb1-c41e-489e-99c6-7c7ff1a9cb88/Migros_logo_210x160.png",
+      "PackagePath": "staticwebassets/uploads/99863cb1-c41e-489e-99c6-7c7ff1a9cb88/Migros_logo_210x160.png"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9a05b256-4585-47a3-b292-2d06912bae9c/Beyaz_ekmek.webp",
@@ -157,12 +269,20 @@
       "PackagePath": "staticwebassets/uploads/9a05b256-4585-47a3-b292-2d06912bae9c/Beyaz_ekmek_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2.webp",
-      "PackagePath": "staticwebassets/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2.webp"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9bd24b98-a3d0-4028-80e0-2512ad70c42e/Kazandibi.jpg",
+      "PackagePath": "staticwebassets/uploads/9bd24b98-a3d0-4028-80e0-2512ad70c42e/Kazandibi.jpg"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2_210x160.webp",
-      "PackagePath": "staticwebassets/uploads/9c0eb9a9-72ba-461e-9525-0b4ab411e936/Misir_Ekmegi2_210x160.webp"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9bd24b98-a3d0-4028-80e0-2512ad70c42e/Kazandibi_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/9bd24b98-a3d0-4028-80e0-2512ad70c42e/Kazandibi_210x160.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9d3dfd09-2984-4186-ae69-ad9fd39b1b80/Cubuk_kraker.webp",
+      "PackagePath": "staticwebassets/uploads/9d3dfd09-2984-4186-ae69-ad9fd39b1b80/Cubuk_kraker.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/9d3dfd09-2984-4186-ae69-ad9fd39b1b80/Cubuk_kraker_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/9d3dfd09-2984-4186-ae69-ad9fd39b1b80/Cubuk_kraker_210x160.webp"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/a0051b76-8c02-49a7-81c3-e1fe8bd2bc8c/Kakaolu_kek.jpg",
@@ -173,28 +293,20 @@
       "PackagePath": "staticwebassets/uploads/a0051b76-8c02-49a7-81c3-e1fe8bd2bc8c/Kakaolu_kek_210x160.jpg"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/b287dff5-15fa-4be2-9c43-c7cb1c9067eb/Altunbilekler_logo.png",
-      "PackagePath": "staticwebassets/uploads/b287dff5-15fa-4be2-9c43-c7cb1c9067eb/Altunbilekler_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/bbd70b80-274e-45d5-a8b1-98e79619b74e/Adese_logo.png",
+      "PackagePath": "staticwebassets/uploads/bbd70b80-274e-45d5-a8b1-98e79619b74e/Adese_logo.png"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/b287dff5-15fa-4be2-9c43-c7cb1c9067eb/Altunbilekler_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/b287dff5-15fa-4be2-9c43-c7cb1c9067eb/Altunbilekler_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/bbd70b80-274e-45d5-a8b1-98e79619b74e/Adese_logo_210x160.png",
+      "PackagePath": "staticwebassets/uploads/bbd70b80-274e-45d5-a8b1-98e79619b74e/Adese_logo_210x160.png"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/ba13762c-22f1-4d18-a0ff-206c8bac0437/Migros_logo.png",
-      "PackagePath": "staticwebassets/uploads/ba13762c-22f1-4d18-a0ff-206c8bac0437/Migros_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/c038c5ce-03e2-4502-92fc-5886e16d2a56/ozdilek.png",
+      "PackagePath": "staticwebassets/uploads/c038c5ce-03e2-4502-92fc-5886e16d2a56/ozdilek.png"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/ba13762c-22f1-4d18-a0ff-206c8bac0437/Migros_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/ba13762c-22f1-4d18-a0ff-206c8bac0437/Migros_logo_210x160.png"
-    },
-    {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/ba1c889a-1c12-4b07-ac45-b4651de9e940/Kipa_logo.png",
-      "PackagePath": "staticwebassets/uploads/ba1c889a-1c12-4b07-ac45-b4651de9e940/Kipa_logo.png"
-    },
-    {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/ba1c889a-1c12-4b07-ac45-b4651de9e940/Kipa_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/ba1c889a-1c12-4b07-ac45-b4651de9e940/Kipa_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/c038c5ce-03e2-4502-92fc-5886e16d2a56/ozdilek_210x160.png",
+      "PackagePath": "staticwebassets/uploads/c038c5ce-03e2-4502-92fc-5886e16d2a56/ozdilek_210x160.png"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/c1cff47e-d8af-4205-bf85-7826765bacdf/Ekmek_EgeGlutensiz.webp",
@@ -213,6 +325,14 @@
       "PackagePath": "staticwebassets/uploads/cc58712e-9162-4be7-8939-07ee9f030d59/Cilekli_Puding_EgeGlutensiz_210x160.webp"
     },
     {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/cd005254-f2f0-40da-9a3d-91431241a704/Cubuk_kraker.jpg",
+      "PackagePath": "staticwebassets/uploads/cd005254-f2f0-40da-9a3d-91431241a704/Cubuk_kraker.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/cd005254-f2f0-40da-9a3d-91431241a704/Cubuk_kraker_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/cd005254-f2f0-40da-9a3d-91431241a704/Cubuk_kraker_210x160.jpg"
+    },
+    {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/d569c83a-3831-4505-8a39-e455d55796d2/Atistirmalik.webp",
       "PackagePath": "staticwebassets/uploads/d569c83a-3831-4505-8a39-e455d55796d2/Atistirmalik.webp"
     },
@@ -229,12 +349,28 @@
       "PackagePath": "staticwebassets/uploads/d65646f3-891e-4bd8-a9c0-52cece53e35b/Keciboynuzu_EgeGlutensiz_(1)_210x160.webp"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/e62492bb-623a-4c86-9b46-e7f1acc5584c/Irmik_Helvasi.webp",
-      "PackagePath": "staticwebassets/uploads/e62492bb-623a-4c86-9b46-e7f1acc5584c/Irmik_Helvasi.webp"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/d66698b6-9b3c-4f70-852e-994839b2e06f/Ekmek_logo.png",
+      "PackagePath": "staticwebassets/uploads/d66698b6-9b3c-4f70-852e-994839b2e06f/Ekmek_logo.png"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/e62492bb-623a-4c86-9b46-e7f1acc5584c/Irmik_Helvasi_210x160.webp",
-      "PackagePath": "staticwebassets/uploads/e62492bb-623a-4c86-9b46-e7f1acc5584c/Irmik_Helvasi_210x160.webp"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/d66698b6-9b3c-4f70-852e-994839b2e06f/Ekmek_logo_210x160.png",
+      "PackagePath": "staticwebassets/uploads/d66698b6-9b3c-4f70-852e-994839b2e06f/Ekmek_logo_210x160.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/e4650757-4f74-420e-950c-a9349f3eeb6d/Muhallebi.jpg",
+      "PackagePath": "staticwebassets/uploads/e4650757-4f74-420e-950c-a9349f3eeb6d/Muhallebi.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/e4650757-4f74-420e-950c-a9349f3eeb6d/Muhallebi_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/e4650757-4f74-420e-950c-a9349f3eeb6d/Muhallebi_210x160.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/e9c9dcd7-679b-4215-801a-f418dec4a8ff/Kazandibi.webp",
+      "PackagePath": "staticwebassets/uploads/e9c9dcd7-679b-4215-801a-f418dec4a8ff/Kazandibi.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/e9c9dcd7-679b-4215-801a-f418dec4a8ff/Kazandibi_210x160.webp",
+      "PackagePath": "staticwebassets/uploads/e9c9dcd7-679b-4215-801a-f418dec4a8ff/Kazandibi_210x160.webp"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f0b0ede2-872d-4880-91dd-8515c627ebd4/Beyaz_ekmek.jpg",
@@ -277,12 +413,20 @@
       "PackagePath": "staticwebassets/uploads/f3cb14b5-259c-4918-ae7b-1f1498071988/Misir_ekmegi_210x160.jpg"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f84811b4-d4f6-4014-a322-41882722de07/Ekmekcom_logo.png",
-      "PackagePath": "staticwebassets/uploads/f84811b4-d4f6-4014-a322-41882722de07/Ekmekcom_logo.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f628351d-10d2-4ffc-a9a5-b1f5457960e3/Makro_market.png",
+      "PackagePath": "staticwebassets/uploads/f628351d-10d2-4ffc-a9a5-b1f5457960e3/Makro_market.png"
     },
     {
-      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f84811b4-d4f6-4014-a322-41882722de07/Ekmekcom_logo_210x160.png",
-      "PackagePath": "staticwebassets/uploads/f84811b4-d4f6-4014-a322-41882722de07/Ekmekcom_logo_210x160.png"
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f628351d-10d2-4ffc-a9a5-b1f5457960e3/Makro_market_210x160.png",
+      "PackagePath": "staticwebassets/uploads/f628351d-10d2-4ffc-a9a5-b1f5457960e3/Makro_market_210x160.png"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f927d0c3-e2d2-45b8-946f-0e8f414760df/Sutlac.jpg",
+      "PackagePath": "staticwebassets/uploads/f927d0c3-e2d2-45b8-946f-0e8f414760df/Sutlac.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f927d0c3-e2d2-45b8-946f-0e8f414760df/Sutlac_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/f927d0c3-e2d2-45b8-946f-0e8f414760df/Sutlac_210x160.jpg"
     },
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek.webp",
@@ -291,6 +435,14 @@
     {
       "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp",
       "PackagePath": "staticwebassets/uploads/f969c448-a9f3-43ba-baef-5d445a5b362b/Ekmek_210x160.webp"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/fd059936-3e14-44b9-b077-1ed6598d9482/Pogaca.jpg",
+      "PackagePath": "staticwebassets/uploads/fd059936-3e14-44b9-b077-1ed6598d9482/Pogaca.jpg"
+    },
+    {
+      "Id": "/Users/jennydinh/Projects/EG_Piranha/wwwroot/uploads/fd059936-3e14-44b9-b077-1ed6598d9482/Pogaca_210x160.jpg",
+      "PackagePath": "staticwebassets/uploads/fd059936-3e14-44b9-b077-1ed6598d9482/Pogaca_210x160.jpg"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.EG_Piranha.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -20,11 +20,11 @@ namespace EG_Piranha.Controllers
             _api = api;
         }
 
+        // Get the page model for all products
         [HttpGet]
         [Route("all")]
         public async Task<IActionResult> GetProducts()
         {
-            // Get all products pages
             var productPages = await _api.Pages.GetAllAsync<ProductPage>();
 
             return Json(productPages);
