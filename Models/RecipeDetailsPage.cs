@@ -46,4 +46,3 @@ namespace EG_Piranha.Models
         public RecipeReg RecipeRegion { get; set; }
     }
 }
-
