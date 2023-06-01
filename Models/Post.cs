@@ -38,4 +38,3 @@ namespace EG_Piranha.Models
         public PostReg PostRegion { get; set; }
     }
 }
-
